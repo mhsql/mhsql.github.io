@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: mhsql
+title: Malcolm Smiht - mhsql
 email: mhsql@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   mhsql Blog on all things Data Platform
