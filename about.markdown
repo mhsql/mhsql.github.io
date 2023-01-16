@@ -19,5 +19,7 @@ While effort is made to avoid plagiarism, where credit is not provided to others
 		<svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#mastodon"></use></svg> <span class="username">mhsql</span></a></li>
 	<li><a href="https://www.twitter.com/mhsql">
 		<svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">mhsql</span></a></li>
+	<li><a href="https://www.linkedin.com/in/mhsql/">
+		<svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg> <span class="username">mhsql</span></a></li>
 	<li><a href="mailto:mhsql@outlook.com">Email: mhsql@outlook.com</a></li>
 </ul>
