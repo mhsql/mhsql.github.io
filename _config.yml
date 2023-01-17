@@ -21,11 +21,12 @@
 title: Malcolm Smith - mhsql
 email: mhsql@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  mhsql Blog on all things Data Platform
+  mhsql Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mhsql.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mhsql
 github_username:  mhsql
+linkedin_username: mhsql
 mastodon:
   - { username: mhsql, instance: dataplatform.social }
 
