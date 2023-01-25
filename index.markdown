@@ -9,3 +9,4 @@ canonical_url: 'https://mhsql.github.io'
 Welcome to the GitHub Pages of mhsql, the home to a Data Platform Blog
 
 While I work on adding my first post this site is blank
+

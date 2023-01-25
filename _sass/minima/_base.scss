@@ -236,15 +236,21 @@ table {
   border-collapse: collapse;
   border: 1px solid $grey-color-light;
   tr {
-    &:nth-child(even) {
-      background-color: lighten($grey-color-light, 6%);
+    &:nth-child(even) {  // minma base
+//      background-color: lighten($grey-color-light, 6%); // minma base
+        background-color: #e6e6e6;  // my Brand
+    }
+    &:nth-child(odd) {  // my Brand - not part of minima base
+      background-color: #f2f2f2;  // my Brand
     }
   }
   th, td {
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
   }
   th {
-    background-color: lighten($grey-color-light, 3%);
+    color: #000000; // my Brand -- not in minima base
+    background-color: #cccccc; // my Brand
+//    background-color: lighten($grey-color-light, 3%); // minima base
     border: 1px solid darken($grey-color-light, 4%);
     border-bottom-color: darken($grey-color-light, 12%);
   }

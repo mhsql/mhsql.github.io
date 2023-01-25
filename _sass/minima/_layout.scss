@@ -17,10 +17,12 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
+  color: $brand-color;        // my brand
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: $brand-color;        // my brand
+//    color: $grey-color-dark;  // minima base
   }
 }
 
@@ -37,7 +39,8 @@
   }
 
   .page-link {
-    color: $text-color;
+//    color: $text-color;       // minima base
+    color: $brand-color;        // my brand
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
@@ -112,6 +115,7 @@
 
 .footer-heading {
   @include relative-font-size(1.125);
+  text-align: center; // my Brand, move from left align
   margin-bottom: $spacing-unit / 2;
 }
 

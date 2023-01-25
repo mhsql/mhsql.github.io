@@ -18,10 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Malcolm Smith - mhsql
+title: mhsql Blog
+author: Malcolm Smith
 email: mhsql@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  mhsql Blog
+  Data Platform and Random Thoughts
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mhsql.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mhsql
