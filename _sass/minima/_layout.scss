@@ -126,8 +126,9 @@
 }
 
 .footer-col-wrapper {
-  @include relative-font-size(0.9375);
-  color: $grey-color;
+  @include relative-font-size(0.9375);  
+//  color: $grey-color; // minima base, not accessible compliant
+  color: $brand-color; // my Brand
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }
