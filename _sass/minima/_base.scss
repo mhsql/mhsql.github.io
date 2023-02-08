@@ -234,27 +234,31 @@ table {
   text-align: $table-text-align;
   color: lighten($text-color, 18%);
   border-collapse: collapse;
-  border: 1px solid $grey-color-light;
+  // border: 1px solid $grey-color-light; // minima base
+  border: 1px solid $text-color;  // my Brand
   tr {
     &:nth-child(even) {  // minma base
 //      background-color: lighten($grey-color-light, 6%); // minma base
-        background-color: #e6e6e6;  // my Brand
+        background-color: #cfdfef;  //#e6e6e6;  // my Brand
     }
     &:nth-child(odd) {  // my Brand - not part of minima base
-      background-color: #f2f2f2;  // my Brand
+        background-color: #d5e5f5;  //#f2f2f2;  // my Brand
     }
   }
   th, td {
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
   }
   th {
-    color: #000000; // my Brand -- not in minima base
-    background-color: #cccccc; // my Brand
-//    background-color: lighten($grey-color-light, 3%); // minima base
-    border: 1px solid darken($grey-color-light, 4%);
-    border-bottom-color: darken($grey-color-light, 12%);
+    color: #151c30; //#000000; // my Brand -- not in minima base
+    background-color: #c0d0e0; // my Brand
+    // background-color: lighten($grey-color-light, 3%); // minima base
+    // border: 1px solid darken($grey-color-light, 4%); // minima base
+    border: 1px solid darken($text-color, 4%);  // my Brand
+    //border-bottom-color: darken($grey-color-light, 12%); // minima base
+    border-bottom-color: darken($text-color, 12%);  // my Brand
   }
   td {
-    border: 1px solid $grey-color-light;
+    // border: 1px solid $grey-color-light; // minima base
+    border: 1px solid $text-color;  // my Brand
   }
 }
