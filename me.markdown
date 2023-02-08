@@ -7,7 +7,7 @@ permalink: /Me/
 <table style="width: 600px;">
 <tr><td><b>Name</b></td><td>Malcolm Smith</td>
 <td><b>Alias</b></td><td>mhsql</td></tr>
-<tr><td><b>Pronouns</b></td><td>He / Him</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td><b>Pronouns</b></td><td>He / Him</td><td colspan=2>&nbsp;</td></tr>
 <tr><td><b>Country of Birth</b></td><td>United Kingdom</td>
 <td><b>Where I Live</b></td><td>Hong Kong SAR</td></tr>
 </table>
