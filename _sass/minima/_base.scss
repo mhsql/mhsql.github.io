@@ -102,10 +102,23 @@ h1, h2, h3, h4, h5, h6 {
 /**
  * Links
  */
+a.site-title {
+  text-decoration: none;
+}
+a.page-link {
+  text-decoration: none;
+}
+a.u-email {
+  text-decoration: none;
+}
+
 a {
   color: $brand-color;
-  text-decoration: none;
-
+// text-decoration: none;
+  text-decoration-line: underline;
+  text-decoration-style: double;
+  text-decoration-thickness: 1px;
+ 
   &:visited {
     color: darken($brand-color, 15%);
   }
@@ -121,7 +134,7 @@ a {
     .username {
       text-decoration: underline;
     }
-  }
+  }  
 }
 
 
