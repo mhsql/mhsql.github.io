@@ -4,7 +4,7 @@ title: "Travel is Tough"
 ---
 ## Traveling 500 steps or 5,000 Miles is Tough
 
-As part of the BitsBuddies updates for SQLBits 2023, I posted a set of Tweets as I travelled.
+As part of the BitsBuddies updates for SQLBits 2023, I posted a set of Tweets as I traveled.
 <br>My personal travel included (ultra) long haul flights, train travel, taxi transfer and daily bus transfer to the venue.
 <br>Even as a seasoned traveler, I still feel the stress, which is why those updates included a stress levels.
 
@@ -14,7 +14,7 @@ The aim of these posts is to go a little deeper, as that same stress affects us 
 More can be found on these pages
 1. [Pre-Flight]({% post_url 2023-03-10-SQLBits-2023-Pre-Flight %})
 1. [Welcome to Manchester]({% post_url 2023-03-11-SQLBits-2023-Welcome-to-Manchester %})
-1. [Train Transefer]({% post_url 2023-03-13-SQLBits-2023-Train-Transfer %})
+1. [Train Transfer]({% post_url 2023-03-13-SQLBits-2023-Train-Transfer %})
 1. [Being a Volunteer]({% post_url 2023-03-18-SQLBits-2023-Being-a-Volunteer %})
 1. [Going Home]({% post_url 2023-03-20-SQLBits-2023-Going-Home %})
 

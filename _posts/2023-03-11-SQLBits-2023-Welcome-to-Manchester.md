@@ -9,9 +9,9 @@ title: "SQLBits 2023 - Welcome to Manchester"
 23:49 (Hong Kong) --> 06:41 (Manchester) local times
 <br>14 hours 52 minutes, even with a fold down seat/bed, you don't get that much sleep inflight
 
-For this trip Manchester Terminal 2 is not a regular for me, so the taxi time to the gate and airport layout are not familair, even though I have done researched. 
+For this trip Manchester Terminal 2 is not a regular for me, so the taxi time to the gate and airport layout are not familiar, even though I have done researched. 
 
-So, the end of the flight, while removing stress and fear some may have from flying, singals the start of more stress, when you're in an undesirable mental state
+So, the end of the flight, while removing stress and fear some may have from flying, signals the start of more stress, when you're in an undesirable mental state
 
 - A little groggy if a short or single media haul flight, due to <em>cabin air</em>
 - A little sleepy from long haul or multiple flights 
@@ -30,12 +30,12 @@ After getting past immigration, the next stress point is baggage claim with thre
 1. Finding the baggage reclaim belt
 <br>On one trip I found the single belt, then had an hour wait as technical issues with the aircraft prevent the baggage being unloaded
 1. Being able to see your bag(s) and collect them
-<br>Many people gather close to the one location with trollies and block others, I try to find a quiet area, after all the bag is travelling around until you pick it up
+<br>Many people gather close to the one location with trollies and block others, I try to find a quiet area, after all the bag is traveling around until you pick it up
 1. The wait
-<br>When you're travelling overnight or long haul, it aways feels like your bag is the last one
+<br>When you're traveling overnight or long haul, it always feels like your bag is the last one
 
 One of the few Covid era benefits, from the arrival health checks, your bags arrived before you.
-<br>That said, such health check processing or extra imigration checks, had different stress affects
+<br>That said, such health check processing or extra immigration checks, had different stress affects
 
 # Transfer to Hotel One
 
@@ -60,7 +60,7 @@ To get the best of my long haul trip I arrived early, on the Saturday, so I coul
 # Arrival Summary
 
 Touchdown may bring some relief to fearful fliers, though it's not the end of the travel stress.
-<br>While internal travel may remove imigration checks, you still need to collect baggage, leave the airport and get to your hotel.
+<br>While internal travel may remove immigration checks, you still need to collect baggage, leave the airport and get to your hotel.
 
 With long haul flight, overnight (red-eye) travel or in my case both, there is additional confusion due to lower mental capacity. being tired or even jet-lagged.
 
@@ -71,7 +71,7 @@ With long haul flight, overnight (red-eye) travel or in my case both, there is a
 
 1. Welcome to Manchester
 
-1. [Train Transefer]({% post_url 2023-03-13-SQLBits-2023-Train-Transfer %})
+1. [Train Transfer]({% post_url 2023-03-13-SQLBits-2023-Train-Transfer %})
 
 1. [Being a Volunteer]({% post_url 2023-03-18-SQLBits-2023-Being-a-Volunteer %})
 
